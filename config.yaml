@@ -1,0 +1,4 @@
+proxy: 127.0.0.1
+port: 10809
+format: 'best'
+output_folder: './download/1.mp4'
