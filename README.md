@@ -6,6 +6,7 @@
 
 A simple python script to download YouTube videos and play them. It uses the [yt_dlp](https://github.com/yt-dlp/yt-dlp) library to download the videos. It also has a GUI made using [gradio](https://gradio.app/).
 This is an upgrade of Vincentqyw's youtube downloader repo. all props for the base https://github.com/Vincentqyw/youtube-dl-webui. 
+Removed proxy/save path fields
 
 ## How to use
 
